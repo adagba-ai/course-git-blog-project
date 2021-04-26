@@ -25,3 +25,6 @@ With the help of:
 * Colt
 * James
 * Julia
+
+* Solomon t. Adagba
+     - https://github.com/adagba-ai/course-git-blog-project
