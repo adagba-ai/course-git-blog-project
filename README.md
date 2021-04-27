@@ -4,6 +4,10 @@ This is the repo for [Udacity's Version Control with Git course](https://www.uda
 
 This repo contains the source code of a blog project that will be used throughout the course.
 
+This programe has helped me in learning version control with Git
+Now i can implement version control on all my projects
+* Solomon Adagba
+ -https://github.com/adagba-ai/course-git-blog-project
 ## Table of Contents
 
 * [Instructions](#instructions)
